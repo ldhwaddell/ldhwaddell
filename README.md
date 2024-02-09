@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 I'm a fourth year Computer Science Student at Saint Mary's University.
 
-I am interested in backend deveoplment and all things data!
+I am interested in backend development and all things data!
 
 You can reach me at ldhwaddell@gmail.com
