@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ldhwaddell/ldhwaddell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi 👋, I'm Lucas
+
+I'm a fourth year Computer Science Student at Saint Mary's University.
+
+I am interested in backend deveoplment and all things data!
+
+You can reach me at ldhwaddell@gmail.com
