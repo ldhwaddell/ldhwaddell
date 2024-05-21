@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi 👋, I'm Lucas
 
-I'm a fourth year Computer Science Student at Saint Mary's University.
+I'm a Computer Science Graduate from Saint Mary's University.
 
 I am interested in backend development and all things data!
 
